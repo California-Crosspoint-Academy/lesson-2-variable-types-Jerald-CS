@@ -8,8 +8,6 @@ public class Variables{
         System.out.println(b);
         String greeting = "Hello, world!";
         System.out.println(greeting);           // prints Hello, world!
-        System.out.println(greeting.length());  // prints 13
-        System.out.println(greeting.toUpperCase()); // prints HELLO, WORLD!
-        System.out.println(greeting.charAt(0)); // prints H
     }
 }
+
